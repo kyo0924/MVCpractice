@@ -1,0 +1,10 @@
+	내부
+	192.168.20.20:6262
+	사용자계정 : PMRclass
+	비밀번호 : 0987
+	
+	외부
+	rclass.iptime.org:6262
+	
+	폴더 : AM_shareData
+	      / PM_shareData
