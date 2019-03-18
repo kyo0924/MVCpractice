@@ -194,7 +194,7 @@ table#tbl-comment button.btn-insert2 {
 			if(bc.getBoardCommentLevel()==1){%>
 			<tr class="level1">
 				<td><sub class="comment-writer"><%=bc.getBoardCommentWriter() %></sub>
-					<sub class="comment-date"><%=bc.getBoardCommentDate() %></sub> </br> <%=bc.getBoardCommentContent() %>
+					<sub class="comment-date"><%=bc.getBoardCommentDate() %></sub> <br/> <%=bc.getBoardCommentContent() %>
 				</td>
 				<td>
 					<button class="btn-reply" value="<%=bc.getBoardCommentNo()%>">답글</button>
